@@ -1,6 +1,8 @@
 # sys_monitor.js
 
-Developed by Gabriel Antunes Rocha (personal script), I hope you enjoy this application as I did
+Developed by Gabriel Antunes Rocha (personal script), I hope you enjoy this application as I did while developing it.
+
+Made to monitor the system manjaro linux.
 
 ## Summary
 

@@ -17,3 +17,9 @@ This project is a Node.js application designed to monitor various system metrics
     npm install
     node index.js
    ```
+
+## Packages Used
+
+- [systeminformation]()
+- second
+- third

@@ -9,6 +9,11 @@ This project is a Node.js application designed to monitor various system metrics
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/sys_monitor.js.git
+   git clone https://github.com/dryingcore/sys_monitor.js.git
    cd sys_monitor.js
+   ```
+
+   ```javascript
+    npm install
+    node index.js
    ```

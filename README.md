@@ -1,10 +1,14 @@
 # sys_monitor.js
 
-Summary:
+## Summary
 
-- How to install and use
-- What the packages have been used
-- What's the sys_monitor.js purpose?
+This project is a Node.js application designed to monitor various system metrics, including CPU info and usage, RAM usage, storage, and network information. It periodically collects and displays this information in the console.
 
-## To Install and run this program you will need:
+### How to Install and Use
 
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/your-username/sys_monitor.js.git
+   cd sys_monitor.js
+   ```

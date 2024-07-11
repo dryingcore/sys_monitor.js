@@ -4,6 +4,11 @@
 
 This project is a Node.js application designed to monitor various system metrics, including CPU info and usage, RAM usage, storage, and network information. It periodically collects and displays this information in the console.
 
+## To install and use this Program you will need:
+
+1. [NodeJS](https://nodejs.org/en): Ensure you have Node.js installed. You can download it from nodejs.org.
+2. [Git]()
+
 ### How to Install and Use
 
 1. **Clone the repository:**

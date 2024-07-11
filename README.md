@@ -1,5 +1,7 @@
 # sys_monitor.js
 
+Developed by Gabriel Antunes Rocha (personal script), I hope you enjoy this application as I did
+
 ## Summary
 
 This project is a Node.js application designed to monitor various system metrics, including CPU info and usage, RAM usage, storage, and network information. It periodically collects and displays this information in the console.
@@ -7,7 +9,7 @@ This project is a Node.js application designed to monitor various system metrics
 ## To install and use this Program you will need:
 
 1. [NodeJS](https://nodejs.org/en): Ensure you have Node.js installed. You can download it from nodejs.org.
-2. [Git]()
+2. [Git](https://git-scm.com/): If you don't have Git installed, you can download it from git-scm.com.
 
 ### How to Install and Use
 

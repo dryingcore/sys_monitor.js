@@ -20,6 +20,6 @@ This project is a Node.js application designed to monitor various system metrics
 
 ## Packages Used
 
-- [systeminformation]()
-- second
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation)
+- 
 - third
